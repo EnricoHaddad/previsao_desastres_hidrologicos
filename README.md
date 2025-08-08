@@ -27,4 +27,14 @@ Tanto a frequência de desastres quanto a de chuvas intensas revelam um padrão 
 <img width="1766" height="580" alt="image" src="https://github.com/user-attachments/assets/a3442dc7-8717-48d2-af76-7e1a3b1d16a0" />
 
 
+Os gráficos mostram um padrão esperado. Nas estações mais úmidas, verão e primavera, há mais registros de chuvas e desastres hidrológicos. No outono-inverno há menos registros de todos os eventos. Por isso, os valores mais altos estão concentrado no começo e no final do ano.  Os meses de agosto e setembro, que são o final do inverno, apresentam os valores mais baixos. A semelhança dos gráficos revela um padrão esperado.
 
+<img width="1682" height="543" alt="image" src="https://github.com/user-attachments/assets/7c37824d-a665-4471-bc63-7203f055da74" />
+
+O gráfico compara as médias mensais para cada ano. Nos últimos 3 anos (2021-2023) houve um aumento na frequência das chuvas. No mais, não existe uma diferença evidente para cada ano.
+
+<img width="1682" height="571" alt="image" src="https://github.com/user-attachments/assets/eac6e273-53ed-43e5-8cbb-f326e68890c8" />
+
+Os gráficos de boxplot mostram o mesmo incremento de chuvas nos últimos ano e um incremento leve de desastres entre 2021 e 2023. As caixas para esses anos apresentam o limite do 1º quartil e medianas ligeiramente mais altos do que os anos anteriores.
+
+<img width="1682" height="548" alt="image" src="https://github.com/user-attachments/assets/2a82c5ea-66d4-4f2c-90eb-02a0bdb6d075" />
