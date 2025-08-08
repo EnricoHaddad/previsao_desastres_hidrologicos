@@ -17,7 +17,14 @@ Todos esses eventos que afetam o país podem ser mitigados e evitados pela açã
 
 
 Fontes: https://g1.globo.com/sp/sao-paulo/noticia/2024/09/30/agosto-e-setembro-de-2024-sao-meses-com-mais-registros-de-focos-de-incendio-em-sp-desde-1998.ghtml
-
 https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/05/11/mais-de-21-milhoes-de-pessoas-foram-afetadas-pelo-temporal-no-rs-618-mil-estao-fora-de-casa.ghtml
-<img width="6902" height="400" alt="image" src="https://github.com/user-attachments/assets/dd541c9c-568b-46a0-b15e-5632b755d2c6" />
+
+## Análise Exploratória
+
+
+Tanto a frequência de desastres quanto a de chuvas intensas revelam um padrão sazonal, dado que seus picos e vales no gráfico coincidem. Por exemplo, o pico após o mês 80 e os vales que existem próximos aos meses 20, 30 e 40. O último gráfico demonstra que há uma relação linear entre as variáveis, mas que não parece ser são forte.
+
+<img width="1766" height="580" alt="image" src="https://github.com/user-attachments/assets/a3442dc7-8717-48d2-af76-7e1a3b1d16a0" />
+
+
 
